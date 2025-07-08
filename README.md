@@ -12,8 +12,9 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=7C83FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+%7C+AI+%26+Distributed+Systems+Enthusiast+%F0%9F%92%BB;Data+Science+enthusiast+%F0%9F%A7%90;Cloud+%26+Cybersecurity+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=7C83FD&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Future+IS+Engineer;Cybersecurity+Enthusiast;Automation;AI+%26+Cybersecurity" />
 </p>
+
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGs1ZjFxaG13eGVidGRwamNoeGp3ZmRwdmVhYzRobTN3MmY5c3NpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Cool Tech GIF" width="320" />
