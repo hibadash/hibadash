@@ -43,7 +43,9 @@
   <p>🧠 <b>Exploring</b> automation, AI, and backend logic</p>
   <p>📚 <b>Sharpening skills</b> in Cloud Computing and Cybersecurity</p>
 </div>
-  <img src="https://github-readme-stats.vercel.app/api?username=hibadash&show_icons=true&theme=tokyonight" width="320" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hibadash&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true&calendar=true" width="680" alt="GitHub Contribution Heatmap" />
+</p>
 ---
 
 <p align="center">
