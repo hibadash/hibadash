@@ -19,11 +19,21 @@
 
 ---
 
-## 🌟 About Me
-
-- 👩‍💻 Passionate about <b>Full-Stack Web Development</b>, <b>Data Science</b>, and <b>Intelligent Systems</b>
-- 🧠 Exploring <b>automation</b>, <b>AI</b>, and elegant backend logic
-- 📚 Sharpening skills in <b>Cloud Computing</b> and <b>Cybersecurity</b>
+<div align="center" style="
+  background: #2a2e48; 
+  border-radius: 12px; 
+  padding: 20px; 
+  max-width: 500px; 
+  color: #cfd8ff; 
+  font-weight: 600; 
+  font-size: 1.1rem;
+  box-shadow: 0 0 15px #7c83fdaa;
+  line-height: 1.6;
+">
+  <p>👩‍💻 <b>Passionate about</b> Full-Stack Web Development, Data Science, and Intelligent Systems</p>
+  <p>🧠 <b>Exploring</b> automation, AI, and elegant backend logic</p>
+  <p>📚 <b>Sharpening skills</b> in Cloud Computing and Cybersecurity</p>
+</div>
 
 ---
 
