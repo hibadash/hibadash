@@ -43,9 +43,6 @@
   <p>🧠 <b>Exploring</b> automation, AI, and backend logic</p>
   <p>📚 <b>Sharpening skills</b> in Cloud Computing and Cybersecurity</p>
 </div>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=hibadash&theme=github" width="720" alt="GitHub Contribution Graph" />
-</p>
 
 ---
 
