@@ -1,10 +1,13 @@
 <h1 align="center">Hey there, I'm Hiba 👋</h1>
-<h3 align="center"> Future IS engineer  🇲🇦</h3>
+<h3 align="center">🚀 Future IS Engineer | 🇲🇦 Moroccan Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=7C83FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full-stack+Web+Dev+%F0%9F%92%BB;Data+Science+Lover+%F0%9F%A7%90;Cloud+%26+Cybersecurity+Explorer+%E2%9C%A8" />
+</p>
 
 ---
 
-### 💫 About Me
-
+### 🌟 About Me
 
 - 👩‍💻 Passionate about **full-stack web development**, **data science**, and **intelligent systems**
 - 🧠 Always exploring: automation, AI, and elegant backend logic
@@ -12,7 +15,7 @@
 
 ---
 
-### 🚀 Tech Stack
+### 🛠 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
@@ -30,7 +33,7 @@
 ### 📌 Featured Projects
 
 - 🧠 **Emotion Detection App** – Real-time emotion recognition using Python & CK+ dataset  
-- 🔬 **Tumor Detection CNN** – AI-based classification system for early medical diagnosis
+- 🔬 **Tumor Detection CNN** – AI-based classification system for early medical diagnosis  
 
 ---
 
@@ -38,34 +41,32 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hibadash&show_icons=true&theme=tokyonight" />
-  <br />
+  <br /><br />
   <img src="https://streak-stats.demolab.com/?user=hibadash&theme=tokyonight" />
-  <br />
+  <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibadash&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌍 Connect with Me
+### 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:hibadadda7@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <!-- Optional LinkedIn -->
-  <!-- <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
 </p>
 
 ---
 
 ### 💬 Quote of the Day
-> _“Discipline is choosing between what you want now and what you want most.”_
+
+<p align="center">
+  <em>"Discipline is choosing between what you want now and what you want most."</em>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hibadash&label=Profile%20views&color=blueviolet&style=flat" alt="hibadash" />
-  
+  <img src="https://komarev.com/ghpvc/?username=hibadash&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views counter" />
 </p>
