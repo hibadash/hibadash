@@ -1,14 +1,22 @@
 <p align="center">
-  <h1 style="background: linear-gradient(90deg, #5A79FF, #8C6AFF); -webkit-background-clip: text; color: transparent; font-weight: 900;">
+<div style="text-align: center; font-family: 'Fira Code', monospace; margin-bottom: 0.5em;">
+  <h1 style="
+    background: linear-gradient(90deg, #5A79FF, #8C6AFF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 900;
+    font-size: 3.2rem;
+    margin: 0;
+  ">
     Hey there, It's Heeba 👋
   </h1>
-  <h3 style="color:#7C83FD; font-weight: 600; margin-top: -15px;">
-    Future IS Engineer | AI & Distributed Systems Enthusiast
-  </h3>
+</div>
+
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=7C83FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full-stack+Web+Dev+💻;Data+Science+enthusiast+;Cloud+%26+Cybersecurity+Explorer+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=7C83FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!; Future IS Engineer | AI & Distributed Systems Enthusiast+💻;Data+Science+enthusiast+;Cloud+%26+Cybersecurity+ +✨" />
 </p>
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGs1ZjFxaG13eGVidGRwamNoeGp3ZmRwdmVhYzRobTN3MmY5c3NpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Cool Tech GIF" width="320" />
