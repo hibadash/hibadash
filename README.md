@@ -43,7 +43,7 @@
   <p>🧠 <b>Exploring</b> automation, AI, and backend logic</p>
   <p>📚 <b>Sharpening skills</b> in Cloud Computing and Cybersecurity</p>
 </div>
- ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hibadash&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=hibadash&show_icons=true&theme=tokyonight" width="320" alt="GitHub Stats" />
 ---
 
 <p align="center">
