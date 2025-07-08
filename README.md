@@ -30,8 +30,8 @@
   box-shadow: 0 0 15px #7c83fdaa;
   line-height: 1.6;
 ">
-  <p>👩‍💻 <b>Passionate about</b> Full-Stack Web Development, Data Science, and Intelligent Systems</p>
-  <p>🧠 <b>Exploring</b> automation, AI, and elegant backend logic</p>
+  <p>👩‍💻 <b>Passionate about</b> Full-Stack Web Development, Data Science, and distributed Systems</p>
+  <p>🧠 <b>Exploring</b> automation, AI, and backend logic</p>
   <p>📚 <b>Sharpening skills</b> in Cloud Computing and Cybersecurity</p>
 </div>
 
@@ -56,7 +56,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hibadash&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="320" style="margin-right: 10px;" />
   <img src="https://streak-stats.demolab.com/?user=hibadash&theme=tokyonight" alt="GitHub Streak" width="320" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibadash&layout=compact&theme=tokyonight" alt="Top Languages" width="220" />
+
 </p>
 
 ---
