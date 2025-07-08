@@ -10,6 +10,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=7C83FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full-stack+Web+Dev+💻;Data+Science+enthusiast+;Cloud+%26+Cybersecurity+Explorer+✨" />
 </p>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGs1ZjFxaG13eGVidGRwamNoeGp3ZmRwdmVhYzRobTN3MmY5c3NpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Cool Tech GIF" width="320" />
+</p>
 
 ---
 
@@ -37,7 +40,6 @@
 
 ---
 
-## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
