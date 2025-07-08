@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=7C83FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full-stack+Web+Dev+💻;Data+Science+enthusiast+🧠;Cloud+%26+Cybersecurity+Explorer+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=7C83FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full-stack+Web+Dev+💻;Data+Science+enthusiast+;Cloud+%26+Cybersecurity+Explorer+✨" />
 </p>
 
 ---
 
 <div align="center" style="background: #1E1E2F; border-radius: 12px; padding: 15px 25px; margin: 25px auto; max-width: 600px; font-style: italic; color: #C1C6FF; font-size: 1.2rem; font-weight: 600; box-shadow: 0 0 12px #7C83FD;">
-  "Coding the future, one algorithm at a time 💻✨"
+  "Obsession beats talent !  💻✨"
 </div>
 
 ---
@@ -42,22 +42,15 @@
 
 ---
 
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hibadash&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hibadash&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibadash&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hibadash&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="320" style="margin-right: 10px;" />
+  <img src="https://streak-stats.demolab.com/?user=hibadash&theme=tokyonight" alt="GitHub Streak" width="320" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibadash&layout=compact&theme=tokyonight" alt="Top Languages" width="220" />
 </p>
 
 ---
 
 <p align="center" style="font-style: italic; color: #7C83FD;">
-  🚀 Let's build the future — one commit at a time!
+  🚀Open to collaboration — reach out anytime <3
 </p>
