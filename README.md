@@ -1,4 +1,3 @@
-<p align="center">
 <div style="text-align: center; font-family: 'Fira Code', monospace; margin-bottom: 0.5em;">
   <h1 style="
     background: linear-gradient(90deg, #5A79FF, #8C6AFF);
@@ -12,12 +11,10 @@
   </h1>
 </div>
 
-
-</p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=7C83FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!; Future IS Engineer | AI & Distributed Systems Enthusiast+💻;Data+Science+enthusiast+;Cloud+%26+Cybersecurity+ +✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=7C83FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Future+IS+Engineer+%7C+AI+%26+Distributed+Systems+Enthusiast+%F0%9F%92%BB;Data+Science+enthusiast+%F0%9F%A7%90;Cloud+%26+Cybersecurity+%E2%9C%A8" />
 </p>
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGs1ZjFxaG13eGVidGRwamNoeGp3ZmRwdmVhYzRobTN3MmY5c3NpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Cool Tech GIF" width="320" />
 </p>
@@ -48,7 +45,6 @@
 
 ---
 
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
@@ -62,15 +58,13 @@
 
 ---
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hibadash&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="320" style="margin-right: 10px;" />
-  <img src="https://streak-stats.demolab.com/?user=hibadash&theme=tokyonight" alt="GitHub Streak" width="320" style="margin-right: 10px;" />
-
+  <img src="https://streak-stats.demolab.com/?user=hibadash&theme=tokyonight" alt="GitHub Streak" width="320" />
 </p>
 
 ---
 
 <p align="center" style="font-style: italic; color: #7C83FD;">
-  🚀Open to collaboration — reach out anytime <3
+  🚀 Open to collaboration — reach out anytime &lt;3
 </p>
