@@ -15,8 +15,9 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=7C83FD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%26+Cybersecurity;Full-Stack+Web+Developer;Automation+%26+Data+Science" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%26+Cybersecurity;Full-Stack+Web+Developer;Automation+%26+Data+Science" />
 </p>
+
 
 <div align="center" style="
   background: #1E1E2F; 
