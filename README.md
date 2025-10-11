@@ -1,16 +1,16 @@
 <div align="center" style="font-family: 'Fira Code', monospace; margin-bottom: 1em;">
   <h1 style="
-    background: linear-gradient(90deg, #5A79FF, #8C6AFF);
+    background: linear-gradient(90deg, #FF88CC, #A8B0FF);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: 900;
     font-size: 3.5rem;
     margin: 0;
   ">
-    Hey Devs, I'm Heeba 👋
+    Hi, I'm Heeba
   </h1>
   <p style="color:#FF88CC; font-size:1.2rem; margin-top:0.5em;">
-    Master’s Student in Information Systems | AI & DATA Enthusiast | Full-Stack Developer
+    Master’s Student in Information Systems | AI & Data Enthusiast | Full-Stack Developer
   </p>
 </div>
 
@@ -18,42 +18,43 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%26+Cybersecurity;Full-Stack+Web+Developer;Automation+%26+Data+Science" />
 </p>
 
-
 <div align="center" style="
-  background: #1E1E2F; 
+  background: #2C1E3C; 
   border-radius: 15px; 
-  padding: 20px 30px; 
-  margin: 30px auto; 
+  padding: 25px 30px; 
+  margin: 25px auto; 
   max-width: 650px; 
   font-style: italic; 
-  color: #C1C6FF; 
+  color: #FFC0FF; 
   font-size: 1.25rem; 
   font-weight: 600; 
-  box-shadow: 0 0 15px #7C83FD80;
+  box-shadow: 0 0 20px #FF88CC80;
 ">
-  "Obsession beats talent 💻"
+  “Learning never exhausts the mind; it ignites it.”
 </div>
 
 <div align="center" style="
-  background: #2a2e48; 
+  background: #3A2B4D; 
   border-radius: 15px; 
   padding: 25px 30px; 
-  max-width: 600px; 
-  color: #cfd8ff; 
+  max-width: 650px; 
+  color: #FFC0FF; 
   font-weight: 600; 
   font-size: 1.15rem;
   line-height: 1.7;
-  box-shadow: 0 0 20px #7C83FDaa;
+  box-shadow: 0 0 25px #FF88CCaa;
 ">
-  <p> <b>Passionate about:</b> Full-Stack Web Development, Data Science & Distributed Systems</p>
-  <p> <b>Exploring:</b> Automation, Artificial Intelligence & Backend Logic</p>
-  <p> <b>Sharpening skills:</b> Cloud Computing, Cybersecurity & DevOps</p>
+  <p><b>About Me:</b> As a Master’s student in Information Systems, my journey is driven by curiosity and a passion for technology. Each project and challenge strengthens my skills and vision for AI, cybersecurity, and full-stack development.</p>
+  <p><b>Passionate about:</b> Full-Stack Web Development, Data Science & Distributed Systems</p>
+  <p><b>Exploring:</b> Automation, Artificial Intelligence & Backend Logic</p>
+  <p><b>Sharpening skills:</b> Cloud Computing, Cybersecurity & DevOps</p>
+  <p><b>Mission:</b> To leverage technology to solve complex problems and create innovative solutions for real-world challenges.</p>
 </div>
 
 ---
 
 <p align="center">
-  <b style="color:#7C83FD;">💻 Tech Stack & Tools</b><br><br>
+  <b style="color:#FF88CC;">Tech Stack & Tools</b><br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
@@ -81,6 +82,6 @@
 
 ---
 
-<p align="center" style="font-style: italic; color: #7C83FD;">
-  🚀 Open to collaboration & networking — reach out anytime!
+<p align="center" style="font-style: italic; color: #FF88CC;">
+  Open to collaboration & networking — let's innovate together.
 </p>
