@@ -30,7 +30,7 @@
   font-weight: 600; 
   box-shadow: 0 0 15px #7C83FD80;
 ">
-  "Obsession beats talent 💻✨"
+  "Obsession beats talent 💻"
 </div>
 
 <div align="center" style="
@@ -44,9 +44,9 @@
   line-height: 1.7;
   box-shadow: 0 0 20px #7C83FDaa;
 ">
-  <p>👩‍💻 <b>Passionate about:</b> Full-Stack Web Development, Data Science & Distributed Systems</p>
-  <p>🧠 <b>Exploring:</b> Automation, Artificial Intelligence & Backend Logic</p>
-  <p>📚 <b>Sharpening skills:</b> Cloud Computing, Cybersecurity & DevOps</p>
+  <p> <b>Passionate about:</b> Full-Stack Web Development, Data Science & Distributed Systems</p>
+  <p> <b>Exploring:</b> Automation, Artificial Intelligence & Backend Logic</p>
+  <p> <b>Sharpening skills:</b> Cloud Computing, Cybersecurity & DevOps</p>
 </div>
 
 ---
