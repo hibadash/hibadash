@@ -10,7 +10,7 @@
     Hi, I'm Heeba
   </h1>
   <p style="color:#FF88CC; font-size:1.2rem; margin-top:0.5em;">
-    Master’s Student in Information Systems | AI & Data Enthusiast | Full-Stack Developer
+    Master’s Student in Information Systems Engineering| AI & Data Enthusiast | Full-Stack Developer
   </p>
 </div>
 
