@@ -82,6 +82,16 @@
 
 ---
 
-<p align="center" style="font-style: italic; color: #FF88CC;">
+<p align="center" style="font-style: italic; color: #FF88CC; margin-top: 20px;">
   Open to collaboration & networking — let's innovate together.
 </p>
+
+<div align="center" style="margin-top: 20px;">
+  <b style="color:#FF88CC;">Contact Me</b><br><br>
+  <a href="mailto:hibadadda7@gmail.com" style="text-decoration:none; color:#FF88CC; margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="28" height="28" alt="Gmail" /> Email
+  </a>
+  <a href="https://www.linkedin.com/in/heba-d-9a7397251/" target="_blank" style="text-decoration:none; color:#FF88CC;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn" /> LinkedIn
+  </a>
+</div>
