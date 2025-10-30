@@ -10,7 +10,7 @@
     Hi, I'm Heeba
   </h1>
   <p style="color:#FF88CC; font-size:1.2rem; margin-top:0.5em;">
-    Master’s Student in Information Systems Engineering| AI & Data Enthusiast | Full-Stack Developer
+    Master’s Student in Information Systems Engineering | AI & Data Enthusiast | Full-Stack Developer
   </p>
 </div>
 
@@ -21,63 +21,81 @@
 <div align="center" style="
   background: #2C1E3C; 
   border-radius: 15px; 
-  padding: 25px 30px; 
+  padding: 20px 25px; 
   margin: 25px auto; 
   max-width: 650px; 
   font-style: italic; 
   color: #FFC0FF; 
-  font-size: 1.25rem; 
+  font-size: 1.2rem; 
   font-weight: 600; 
   box-shadow: 0 0 20px #FF88CC80;
 ">
   “Learning never exhausts the mind; it ignites it.”
 </div>
 
-<div align="center" style="
-  background: #3A2B4D; 
-  border-radius: 15px; 
-  padding: 25px 30px; 
-  max-width: 650px; 
-  color: #FFC0FF; 
-  font-weight: 600; 
-  font-size: 1.15rem;
-  line-height: 1.7;
-  box-shadow: 0 0 25px #FF88CCaa;
-">
-  <p><b>About Me:</b> As a Master’s student in Information Systems, my journey is driven by curiosity and a passion for technology. Each project and challenge strengthens my skills and vision for AI, cybersecurity, and full-stack development.</p>
-  <p><b>Passionate about:</b> Full-Stack Web Development, Data Science & Distributed Systems</p>
-  <p><b>Exploring:</b> Automation, Artificial Intelligence & Backend Logic</p>
-  <p><b>Sharpening skills:</b> Cloud Computing, Cybersecurity & DevOps</p>
-  <p><b>Mission:</b> To leverage technology to solve complex problems and create innovative solutions for real-world challenges.</p>
-</div>
+<details style="margin-top:25px;">
+  <summary><b style="color:#FF88CC; font-size:1.3rem;">About Me</b></summary>
+  <ul style="margin-top:10px; font-size:1.15rem; color:#FFC0FF; line-height:1.6;">
+    <li>Master’s student in Information Systems, passionate about AI, cybersecurity, and full-stack development</li>
+    <li><b>Passionate about:</b> Full-Stack Web Development, Data Science & Distributed Systems</li>
+    <li><b>Exploring:</b> Automation, Artificial Intelligence & Backend Logic</li>
+    <li><b>Sharpening skills:</b> Cloud Computing, Cybersecurity & DevOps</li>
+    <li><b>Mission:</b> Solve complex problems with innovative tech solutions</li>
+  </ul>
+</details>
 
 ---
 
+<p align="center" style="margin-top:30px;">
+  <b style="color:#FF88CC; font-size:1.3rem;">Tech Stack & Tools</b>
+</p>
+
+<!-- Frontend -->
 <p align="center">
-  <b style="color:#FF88CC;">Tech Stack & Tools</b><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+  <b style="color:#FF88CC;">Frontend:</b><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
+</p>
+
+<!-- Backend -->
+<p align="center">
+  <b style="color:#FF88CC;">Backend:</b><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+</p>
+
+<!-- Databases -->
+<p align="center">
+  <b style="color:#FF88CC;">Databases:</b><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+</p>
+
+<!-- DevOps & Tools -->
+<p align="center">
+  <b style="color:#FF88CC;">DevOps & Tools:</b><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
+</p>
+
+<!-- Mobile / Other -->
+<p align="center">
+  <b style="color:#FF88CC;">Mobile / Other:</b><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hibadash&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="320" style="margin-right: 10px;" />
-  <img src="https://streak-stats.demolab.com/?user=hibadash&theme=tokyonight" alt="GitHub Streak" width="320" />
+<p align="center" style="margin-top:20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hibadash&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="300" /><br><br>
+  <img src="https://streak-stats.demolab.com/?user=hibadash&theme=tokyonight" alt="GitHub Streak" width="300" />
 </p>
 
 ---
@@ -87,7 +105,7 @@
 </p>
 
 <div align="center" style="margin-top: 20px;">
-  <b style="color:#FF88CC;">Contact Me</b><br><br>
+  <b style="color:#FF88CC; font-size:1.2rem;">📫 Contact Me</b><br><br>
   <a href="mailto:hibadadda7@gmail.com" style="text-decoration:none; color:#FF88CC; margin-right: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="28" height="28" alt="Gmail" /> Email
   </a>
